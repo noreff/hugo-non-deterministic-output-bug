@@ -4,9 +4,7 @@ This is minimal reproducible example of issue that I encounter while working wit
 
 Hugo starting from version 0.63.0 start occasionally producing different output when running `hugo` (without changing anything).
 
-See this gif for example:
-
-![Alt Text](hugo_bug.gif)
+See [this gif for example](hugo_bug.gif).
 
 I split terminal here into 2 parts
 Right part of the terminal (one that is separated vertically) is running `watch n1 'ls -al` commands in `public` folder. 
